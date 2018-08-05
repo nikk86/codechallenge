@@ -1,0 +1,7 @@
+To run the test suite
+npm test
+
+
+Success cases return status code 200
+Error cases return status code 400
+
